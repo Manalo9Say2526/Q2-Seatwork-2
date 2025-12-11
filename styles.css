@@ -1,0 +1,16 @@
+form{
+    background-color:white ;
+	padding: 10px;
+	margin: 20px auto;
+    border-radius: 20px;
+	width: 40%;
+	border:1px solid;
+    align-items: right;
+}
+
+body{
+	background-image: url(https://images.squarespace-cdn.com/content/v1/664c7ae50eea9c731b37e817/5b9ab1a9-e423-49f0-a8cc-4273d96fa235/DSC06761.jpg);
+    object-fit: contain;
+    background-repeat: no-repeat;
+}
+
